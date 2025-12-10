@@ -36,8 +36,8 @@ The game is short, replayable, and designed to deliver the classic arcade feel i
 |------------|-----|
 | Move       | Arrow Keys / A & D |
 | Jump       | Space |
-| Attack     | *Your attack key here* |
-| Restart    | R (optional) |
+| Attack 1   | Left Click |
+| Attack 2   | Right Click |
 
 ---
 
