@@ -4,7 +4,7 @@
 ![Platformer](https://img.shields.io/badge/Genre-Platformer-blue)
 ![Status](https://img.shields.io/badge/Build-Complete-brightgreen)
 ![Time](https://img.shields.io/badge/Dev%20Time-24%20Hours-orange)
-![Engine](https://img.shields.io/badge/Engine-Your-godot-lightgrey)
+![Engine](https://img.shields.io/badge/Engine-Godot-blue)
 
 ---
 
