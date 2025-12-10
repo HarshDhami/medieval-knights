@@ -1,4 +1,4 @@
-# 🛡️ Medieval Knights  
+# 🛡️ Medieval Souls  
 *A 24-hour game-jam platformer*
 
 ![Platformer](https://img.shields.io/badge/Genre-Platformer-blue)
@@ -9,7 +9,7 @@
 ---
 
 ## 🎮 Overview
-**Medieval Knights** is a fast-paced 2D platformer created in just one day for a game jam. You control a lone knight navigating four handcrafted levels filled with tight platforming, hazards, enemies, and simple but satisfying movement.
+**Medieval Souls** is a fast-paced 2D platformer created in just one day for a game jam. You control a lone knight navigating four handcrafted levels filled with tight platforming, hazards, enemies, and simple but satisfying movement.
 
 The game is short, replayable, and designed to deliver the classic arcade feel in a compact experience.
 
