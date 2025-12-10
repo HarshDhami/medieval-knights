@@ -26,8 +26,10 @@ The game is short, replayable, and designed to deliver the classic arcade feel i
 ---
 
 ## 📷 Screenshots
-> *(Add your actual images later!)*
-
+![Menu]https://github.com/HarshDhami/medieval-knights/blob/main/1DyBkw.png
+![Start]https://github.com/HarshDhami/medieval-knights/blob/main/8gFVlt.png
+![Jump]https://github.com/HarshDhami/medieval-knights/blob/main/5bJRvx.png
+![End]https://github.com/HarshDhami/medieval-knights/blob/main/H8mnZS.png
 ---
 
 ## 🕹️ Controls
@@ -65,6 +67,10 @@ Medieval Knights is built for short sessions but rewards consistent improvement 
 
 ## 🧰 Known Limitations
 Since this game was made in 24 hours, some mechanics and visuals are intentionally simple. Future updates may expand levels or polish mechanics.
+
+Some known bugs - 
+1. Camera not stopping when the level ends
+2. Lava hitbox
 
 ---
 
