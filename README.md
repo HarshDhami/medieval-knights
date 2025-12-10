@@ -76,7 +76,8 @@ Some known bugs -
 
 ## 👤 Credits
 **Developer:** Dhami  
-**Art & Sound:** Taken from itch.io
+**Art & Sound:** Taken from itch.
+
 **Special Thanks:** Game jam organizers & playtesters  
 
 ---
@@ -84,5 +85,4 @@ Some known bugs -
 ## ⭐ Support the Project
 If you enjoyed the game, consider starring the repo!
 
-```
 
