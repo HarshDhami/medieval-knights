@@ -70,7 +70,7 @@ Since this game was made in 24 hours, some mechanics and visuals are intentional
 
 ## 👤 Credits
 **Developer:** Dhami  
-**Art & Sound:** *(Add sources or mark as self-made)*  
+**Art & Sound:** Taken from itch.io
 **Special Thanks:** Game jam organizers & playtesters  
 
 ---
