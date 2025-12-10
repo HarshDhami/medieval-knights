@@ -26,10 +26,10 @@ The game is short, replayable, and designed to deliver the classic arcade feel i
 ---
 
 ## 📷 Screenshots
-![Menu]https://github.com/HarshDhami/medieval-knights/blob/main/1DyBkw.png
-![Start]https://github.com/HarshDhami/medieval-knights/blob/main/8gFVlt.png
-![Jump]https://github.com/HarshDhami/medieval-knights/blob/main/5bJRvx.png
-![End]https://github.com/HarshDhami/medieval-knights/blob/main/H8mnZS.png
+![Menu](https://github.com/HarshDhami/medieval-knights/blob/main/1DyBkw.png)
+![Start](https://github.com/HarshDhami/medieval-knights/blob/main/8gFVlt.png)
+![Jump](https://github.com/HarshDhami/medieval-knights/blob/main/5bJRvx.png)
+![End](https://github.com/HarshDhami/medieval-knights/blob/main/H8mnZS.png)
 ---
 
 ## 🕹️ Controls
